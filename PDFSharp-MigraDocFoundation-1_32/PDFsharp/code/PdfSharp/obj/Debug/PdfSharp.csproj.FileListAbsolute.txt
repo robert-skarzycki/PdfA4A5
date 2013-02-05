@@ -1,0 +1,13 @@
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.xml
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.pdb
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\bin\Debug\de\PdfSharp.resources.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.csprojResolveAssemblyReference.cache
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreview.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreviewCanvas.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.de.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.csproj.GenerateResource.Cache
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\de\PdfSharp.resources.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.pdb

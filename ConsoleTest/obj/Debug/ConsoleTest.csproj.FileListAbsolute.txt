@@ -1,0 +1,9 @@
+D:\Projekty\PDF\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+D:\Projekty\PDF\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\Projekty\PDF\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\Projekty\PDF\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfSharp.dll
+D:\Projekty\PDF\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\Projekty\PDF\ConsoleTest\obj\Debug\ConsoleTest.pdb
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5.dll
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5.pdb

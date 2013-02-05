@@ -1,0 +1,9 @@
+D:\Projekty\PDF\ConsoleTest\obj\Debug\PdfA4A5Console.csprojResolveAssemblyReference.cache
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5.dll
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfSharp.dll
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5.pdb
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5Console.exe.config
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5Console.exe
+D:\Projekty\PDF\ConsoleTest\bin\Debug\PdfA4A5Console.pdb
+D:\Projekty\PDF\ConsoleTest\obj\Debug\PdfA4A5Console.exe
+D:\Projekty\PDF\ConsoleTest\obj\Debug\PdfA4A5Console.pdb

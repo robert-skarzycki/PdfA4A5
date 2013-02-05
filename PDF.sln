@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfA4A5Console", "ConsoleTest\PdfA4A5Console.csproj", "{79D0F472-DB2D-4B19-BC2B-28FC405A477F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfA4A5", "PdfA4A5\PdfA4A5.csproj", "{10F8DDBC-97F8-451D-8DB9-03AB6C56C6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D0F472-DB2D-4B19-BC2B-28FC405A477F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D0F472-DB2D-4B19-BC2B-28FC405A477F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D0F472-DB2D-4B19-BC2B-28FC405A477F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D0F472-DB2D-4B19-BC2B-28FC405A477F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F8DDBC-97F8-451D-8DB9-03AB6C56C6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F8DDBC-97F8-451D-8DB9-03AB6C56C6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F8DDBC-97F8-451D-8DB9-03AB6C56C6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F8DDBC-97F8-451D-8DB9-03AB6C56C6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.pdb
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.pdb
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.xml
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.resources.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csprojResolveAssemblyReference.cache
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.de.resources
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csproj.GenerateResource.Cache
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\de\PdfSharp.Charting.resources.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.dll
+D:\Projekty\PDF\PDFSharp-MigraDocFoundation-1_32\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.pdb

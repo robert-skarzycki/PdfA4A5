@@ -1,0 +1,6 @@
+D:\Projekty\PDF\PdfA4A5\bin\Debug\PdfA4A5.dll
+D:\Projekty\PDF\PdfA4A5\bin\Debug\PdfA4A5.pdb
+D:\Projekty\PDF\PdfA4A5\bin\Debug\PdfSharp.dll
+D:\Projekty\PDF\PdfA4A5\obj\Debug\PdfA4A5.dll
+D:\Projekty\PDF\PdfA4A5\obj\Debug\PdfA4A5.pdb
+D:\Projekty\PDF\PdfA4A5\obj\Debug\PdfA4A5.csprojResolveAssemblyReference.cache
